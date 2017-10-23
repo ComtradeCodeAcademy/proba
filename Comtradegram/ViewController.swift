@@ -15,8 +15,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var subtitleLbl: UILabel!
     @IBOutlet weak var submitBttnLbl: UIButton!
     
-    var car:Car!
- 
+    var car:TiSiCar!
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()

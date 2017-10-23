@@ -19,4 +19,7 @@ class UserModel{
         self.email = email
         self.username = username
     }
+    
+    
+    
 }

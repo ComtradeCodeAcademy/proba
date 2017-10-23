@@ -19,4 +19,12 @@ class LocationModel{
         self.longitude = longitude
     }
     
+    associatedtype
+    class as
+    df
+    sadf
+    as
+    df: <#super class#> {
+        <#code#>
+    }
 }
